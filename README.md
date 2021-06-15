@@ -128,3 +128,5 @@ To train the model from scratch run the following (to fine-tune add --resume):
 
 Please refer to the papers for more technical details.
 
+## Acknowledgements
+This code is based on [RU-LSTM](https://github.com/fpv-iplab/rulstm), so thanks to the collaborators/maintainers of that repository.
