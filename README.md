@@ -1,6 +1,6 @@
 # Temporal Aggregate Representations for Long-Range Video Understanding
 
-This repository provides official PyTorch code for our papers:
+This repository provides official PyTorch implementation for our papers:
 
 F. Sener, D. Singhania and A. Yao, "**Temporal Aggregate Representations for Long-Range Video Understanding**", ECCV 2020 [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610154.pdf)]
 
