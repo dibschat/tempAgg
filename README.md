@@ -95,7 +95,7 @@ Here are the validation results on EPIC-KITCHENS-100 as provided in our paper.
 To test your model on the EPIC-100 test split, run the following:
 ##### Action Anticipation
 * `mkdir -p jsons/anticipation`
-* `python main_anticipation.py --mode test --json_directory jsons/anticipation --ek100 --path_to_data data/ek100  --path_to_models models_recognition/ek100/ --modality late_fusion --num_class 3806 --verb_class 97 --noun_class 300`
+* `python main_anticipation.py --mode test --json_directory jsons/anticipation --ek100 --path_to_data data/ek100  --path_to_models models_anticipation/ek100/ --modality late_fusion --num_class 3806 --verb_class 97 --noun_class 300`
 
 ##### Action Recognition
 * `mkdir -p jsons/recognition`
