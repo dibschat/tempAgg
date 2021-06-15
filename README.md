@@ -84,6 +84,12 @@ To validate our model, run the following:
 
 Here are the validation results on EPIC-KITCHENS-100 as provided in our paper.
 
+* Anticipation
+![ant](https://drive.google.com/uc?export=view&id=1LASa8vtn9qQ0WGQdZcDEtTXOPdYdL11u)
+
+* Recognition
+![rec](https://drive.google.com/uc?export=view&id=1FJxOL3gXRRFr7g1cHhX0ZvCQiIaZCCRb)
+
 ### Testing and submitting the results to the server
 
 To test your model on the EPIC-100 test split, run the following:
