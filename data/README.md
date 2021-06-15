@@ -1,0 +1,1 @@
+Follow the [RU-LSTM](https://github.com/fpv-iplab/rulstm) repository to download the RGB, Flow, Obj features and the train/val/test splits and keep them in the `data/ek55` or `data/ek100` folder depending on the dataset. Download the ROI features for EPIC-KITCHENS-100 from this link.
