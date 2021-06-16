@@ -106,7 +106,7 @@ To test your model on the EPIC-100 test split, run the following:
 
 ### Custom Training
 
-To train the model from scratch run the following (to fine-tune add --resume):
+To train the model from scratch run the following:
 
 #### EPIC-KITCHENS-55
 ##### Action Anticipation
