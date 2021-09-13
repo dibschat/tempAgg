@@ -88,10 +88,10 @@ To validate our model, run the following:
 Here are the validation results on EPIC-KITCHENS-100 as provided in our paper.
 
 * Anticipation
-![ant](imgs/ant.JPG)
+![ant](imgs/ant.PNG)
 
 * Recognition
-![rec](imgs/rec.JPG)
+![rec](imgs/rec.PNG)
 
 ### Testing and submitting the results to the server
 
