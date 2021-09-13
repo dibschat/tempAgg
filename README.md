@@ -6,7 +6,7 @@ F. Sener, D. Singhania and A. Yao, "**Temporal Aggregate Representations for Lon
 
 F. Sener, D. Chatterjee and A. Yao, "**Technical Report: Temporal Aggregate Representations**", arXiv:2106.03152, 2021 [[paper](https://arxiv.org/pdf/2106.03152.pdf)]
 
-![model](imgs/model.JPG)
+![model](imgs/diag.JPG)
 
 If you use the code/models hosted in this repository, please cite the following papers:
 
